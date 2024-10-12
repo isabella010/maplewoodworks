@@ -1,0 +1,19 @@
+.main-image{
+    /* background-image: url(https://www.popularwoodworking.com/wp-content/uploads/2022/03/jatin-jangid-1f0db1u7p8q-unsplash.jpg); */
+    background-image: url(https://media.wired.com/photos/60259356b2bf13443c5eef20/16:9/w_2400,h_1350,c_limit/Science_wood_1136989911.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.view-products-btn{
+    margin: 12%;
+    background-color: #483C32;
+    border-color: #483C32; 
+}
+
+.view-products-btn:hover {
+    background-color: #2F251C;
+    border-color: #2F251C; 
+}

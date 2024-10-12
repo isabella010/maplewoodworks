@@ -1,0 +1,28 @@
+.about {
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    gap: 6%;
+  }
+  
+.about-me-image {
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+  
+.about-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.about h2 {
+    margin: 0;
+    margin-bottom: 10px;
+}
+  
+.about p {
+    margin: 0;
+    line-height: 1.5;
+}
+  
