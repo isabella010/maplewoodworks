@@ -4,6 +4,7 @@ import './App.css'
 import Home from "./pages/Home"
 import Youtube from './pages/Youtube';
 import NavigationBar from './navbar';
+import Footer from './Footer';
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/youtube" element={<Youtube />} />
       </Routes>
+      <Footer />
     </Router>
     </>
   )
