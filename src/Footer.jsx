@@ -8,7 +8,7 @@ function Footer() {
       <div className="wrapper">
         <div className="content"></div>
         <footer className="footer">
-          <p>© {currentYear} Maple Woodworks. All rights reserved.</p> {/* Display the current year */}
+          <p>© {currentYear} Maple Woodworks. All rights reserved.</p>
         </footer>
       </div>
     </>

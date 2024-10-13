@@ -5,24 +5,40 @@
     gap: 6%;
   }
   
-.about-me-image {
+  .about-me-image {
     max-width: 300px;
     height: auto;
     border-radius: 8px;
-}
+  }
   
-.about-text {
+  .about-text {
     display: flex;
     flex-direction: column;
-}
-
-.about h2 {
+  }
+  
+  .about h2 {
     margin: 0;
     margin-bottom: 10px;
-}
+  }
   
-.about p {
+  .about p {
     margin: 0;
     line-height: 1.5;
-}
+  }
+  
+  @media (max-width: 768px) {
+    .about {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .about-me-image {
+      max-width: 100%;
+    }
+  
+    .about-text {
+      margin-top: 20px;
+    }
+  }
   
