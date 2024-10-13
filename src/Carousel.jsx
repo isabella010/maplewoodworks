@@ -13,7 +13,7 @@ function MyCarousel() {
           />
           <Carousel.Caption>
             <h3>Charcuterie Board</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <p>Crafted from premium wood or a blend of wood and resin, this charcuterie board adds elegance to any gathering</p>
           </Carousel.Caption>
         </Carousel.Item>
 
@@ -25,7 +25,7 @@ function MyCarousel() {
           />
           <Carousel.Caption>
             <h3>Coasters</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Crafted from wood or wood and resin, these coasters offer a stylish and practical touch to your space</p>
           </Carousel.Caption>
         </Carousel.Item>
 
@@ -37,7 +37,7 @@ function MyCarousel() {
           />
           <Carousel.Caption>
             <h3>Wood Sign</h3>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+            <p>Laser-engraved for precision, these wood signs make beautiful, personalized wall decorations</p>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
